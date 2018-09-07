@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">CabreraGaibrielleLab3</string>
+    <string name="title">Palacio del Gobernador</string>
+    <string name="loc">Location:</string>
+    <string name="distance">Distance to UST:</string>
+    <string name="loc1">Aduana Street, Intramuros, Manila, Luzon Philippines</string>
+    <string name="dist1">3.7 km away from UST</string>
+    <string name="back">BACK</string>
+    <string name="next">NEXT</string>
+</resources>
